@@ -1,0 +1,164 @@
+.iphone-pro-max {
+  position: relative;
+  width: 440px;
+  height: 956px;
+  background-color: #ffffff;
+}
+
+.iphone-pro-max .rectangle {
+  position: absolute;
+  top: 29px;
+  left: 16px;
+  width: 411px;
+  height: 73px;
+  background-color: #1c6fdb;
+}
+
+.iphone-pro-max .text-wrapper {
+  position: absolute;
+  top: 51px;
+  left: 35px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .star {
+  position: absolute;
+  top: 159px;
+  left: 39px;
+  width: 33px;
+  height: 33px;
+}
+
+.iphone-pro-max .img {
+  top: 224px;
+  position: absolute;
+  left: 44px;
+  width: 33px;
+  height: 33px;
+}
+
+.iphone-pro-max .star-2 {
+  top: 289px;
+  position: absolute;
+  left: 44px;
+  width: 33px;
+  height: 33px;
+}
+
+.iphone-pro-max .star-3 {
+  top: 354px;
+  position: absolute;
+  left: 44px;
+  width: 33px;
+  height: 33px;
+}
+
+.iphone-pro-max .star-4 {
+  top: 420px;
+  position: absolute;
+  left: 44px;
+  width: 33px;
+  height: 33px;
+}
+
+.iphone-pro-max .star-5 {
+  top: 489px;
+  position: absolute;
+  left: 44px;
+  width: 33px;
+  height: 33px;
+}
+
+.iphone-pro-max .div {
+  position: absolute;
+  top: 495px;
+  left: 89px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .text-wrapper-2 {
+  position: absolute;
+  top: 426px;
+  left: 89px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .text-wrapper-3 {
+  position: absolute;
+  top: 360px;
+  left: 89px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .text-wrapper-4 {
+  position: absolute;
+  top: 162px;
+  left: 89px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .text-wrapper-5 {
+  position: absolute;
+  top: 230px;
+  left: 89px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .text-wrapper-6 {
+  position: absolute;
+  top: 298px;
+  left: 89px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.iphone-pro-max .image {
+  position: absolute;
+  top: 563px;
+  left: 35px;
+  width: 373px;
+  height: 373px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
