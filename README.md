@@ -651,7 +651,7 @@ index3.html
   aspect-ratio: 1;
   object-fit: cover;
 }
-
+```
 ## OUTPUT:
 ![alt text](image.png)
 
